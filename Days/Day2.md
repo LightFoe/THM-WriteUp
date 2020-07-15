@@ -9,18 +9,8 @@ Just going in the webserver login page which is on 8888 port. First I checked th
 know this authentication process is vulnerable and we create a new user with a whitespace at the start of the username.
 Then we log-in in that account and it triggers the flag
 
-![](images/evilshell.png "text")
+![](images/darren.png "text")
 
-Repeat the process for the 
+Repeat the process for the "arthur" user and we got this day in the bag
 
 
-
-![](images/evilshell.png "text")
-
-There are some commands thm suggest to try it out and some will come in handy very soon.
-
-> whoami
-
-and everytime i see i php i wanna know the version so just because i'm used too i usually run
-
-> php -v
