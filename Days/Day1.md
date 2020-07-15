@@ -45,6 +45,7 @@ Where OurUser is the answer from the precedent task and we have the answer for t
 
 ###### #5
 Same as the subtask #5 just one line command
+
 <img src="images/ubuntu.png" alt="alt text" width="500" height="300">
 
 ###### #6
