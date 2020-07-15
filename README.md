@@ -7,6 +7,9 @@
 
 (will add a more detailed description soon)
 
+## >whoami
+
+<script src="https://tryhackme.com/badge/117838"></script>
 
 ## Completed Rooms
 
