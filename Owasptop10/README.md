@@ -5,3 +5,5 @@ Task 1 to 3 are just information about the challenge, just do a quick reading an
   * [Day 1 Walkthrough](https://github.com/LightFoe/THMOwasptop10-WriteUp/blob/master/Days/Day1.md#day-1 "Day 1")
 
   * [Day 2 Walkthrough](https://github.com/LightFoe/THMOwasptop10-WriteUp/blob/master/Days/Day2.md#day-2 "Day 2")
+  
+  * [Day 3 Walkthrough](https://github.com/LightFoe/THM-WriteUp/blob/master/Owasptop10/Days/Day3.md#day-3 "Day 3")
