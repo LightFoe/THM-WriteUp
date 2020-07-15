@@ -7,7 +7,7 @@
 
 (will add a more detailed description soon)
 
-## >whoami
+## $ whoami
 
 I'm fairly new to this website that I recently discovered and I hope I will do most of the rooms, trying to maximize what i can learn in the process :smiley:
 
