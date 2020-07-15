@@ -28,9 +28,12 @@ Almost the last one so probably it won't be useful.
 For the first one just lemme remind you that when you see root directory it represent the directory of the server not the "/root", especially for web server. Just with a quick pwd
 you can see you're in the server root so for the first subtask just type 
 > ls
+
 There is only one eyecatching file so it probably is the answer. Yes it is.
 The next one requires you to access a known file, to access the users you can simply type this
 > cut -d: -f1 /etc/passwd 
+
 and the only step remaining is to count the non-root, non-deamon and non-service users.
 The answer should be easy to grasp (I'll remind you non-root too, at first counting i forgot that :sweat_smile:)
 
+For the subtask#3 we'll already have the answer from the "whoami" typed as first.
