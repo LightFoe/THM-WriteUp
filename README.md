@@ -36,4 +36,8 @@ The next one requires you to access a known file, to access the users you can si
 and the only step remaining is to count the non-root, non-deamon and non-service users.
 The answer should be easy to grasp (I'll remind you non-root too, at first counting i forgot that :sweat_smile:)
 
-For the subtask#3 we'll already have the answer from the "whoami" typed as first.
+For the subtask #3 we'll already have the answer from the "whoami" typed as first.
+
+Even for the subtask #4 is just one line command
+
+![](images/ubuntu.png "text" | width=100)
