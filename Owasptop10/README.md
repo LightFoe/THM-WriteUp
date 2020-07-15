@@ -5,6 +5,9 @@
 ## This is a Room from [TryHackMe](https://tryhackme.com/ "TryHackMe")
 Learn more about TryHackMe on :point_up_2: their website
 
+## I have others write-up -> [Write-Ups](https://github.com/LightFoe/THM-WriteUp#rooms "Write-Ups")
+Check out my others write-up if you need help :point_up_2: here
+
 #### Let's start 
 
 Task 1 to 3 are just information about the challenge, just do a quick reading and let's start with day 1
