@@ -2,7 +2,7 @@
 
 ### Write Up of the new THM room : Owasptop10
 
-## This is a Room of [TryHackMe](https://tryhackme.com/ "TryHackMe")
+## This is a Room from [TryHackMe](https://tryhackme.com/ "TryHackMe")
 Learn more about TryHackMe on :point_up_2: their website
 
 #### Let's start 
