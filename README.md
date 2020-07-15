@@ -11,4 +11,4 @@ How nostalgic evilshell.php again.
 They explains pretty well how it works
 ![alt text][evilshell]
 
-[evilshell]: img/evishell.php "evilshell"
+[evilshell]: images/evilshell.php "evilshell"
