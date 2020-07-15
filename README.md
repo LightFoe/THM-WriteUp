@@ -12,6 +12,7 @@
 I'm failrly new to this website that I recently discovered and I hope I will do most of the rooms trying to maximize what i can leaen in the process
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/LightFoe.png" alt="TryHackMe">
+<img src="https://tryhackme-badges.s3.amazonaws.com/LightFoe.png" alt="alt text" width="500" height="300">
 
 ## Completed Rooms
 
