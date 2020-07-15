@@ -51,7 +51,7 @@ Same as the subtask #5 just one line command
 ###### #6
 
 For the remaining subtask it was a not so lucky guess, when we found the first file I "cat" it out and I tryed to guess it was the favourite drink.
-The **right** way to do it is just finding and catting the header with this command (To find the header just type *locate motd* )
+The **right** way to do it is just finding and catting the header with this command (To find the header just type "*locate motd*" )
 
 > cat /etc/update-motd.d/00-header
 
