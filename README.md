@@ -17,4 +17,4 @@ I'm fairly new to this website that I recently discovered and I hope I will do m
 |     Room   | Number of Day   | Concept | Completed |
 | ------------- |:-------------:| ------------:| ------------:|
 | [Owasptop10](https://github.com/LightFoe/THM-WriteUp/blob/master/Owasptop10/README.md#thmowasptop10-writeup "Owasptop10")| 10 | OWASP vulnerabilities | In Progess |
-| [Advent of Cyber](https://github.com/LightFoe/THM-WriteUp/blob/master/Advent%20of%20Cyber/README.md#advent-of-cyber "Advent of Cyber")| 25 | CyberSecurity's fundamentals | In Progess |
+| [Advent of Cyber](https://github.com/LightFoe/THM-WriteUp/blob/master/Advent%20of%20Cyber/README.md#advent-of-cyber "Advent of Cyber")| 25 | CyberSecurity's fundamentals | Completed |
