@@ -9,7 +9,7 @@
 
 ## >whoami
 
-I'm fairly new to this website that I recently discovered and I hope I will do most of the rooms, trying to maximize what i can learn in the process :D
+I'm fairly new to this website that I recently discovered and I hope I will do most of the rooms, trying to maximize what i can learn in the process :smiley:
 
 
 ## Rooms
