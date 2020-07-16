@@ -9,7 +9,8 @@ As always i started in background nmap and gobuster on the box
 When it comes to which wordlist is better i usually goes with medium and if I think I missed something i could go the big one but the medium works just fine for these challenges
 
 We can notice a /login, expected not much usefull for now, a /console interesting but if you go on that page it requires you to login, so not so interesting for now.
-The next one is very usefull because when we gon on that page we get this 
+The next one is very usefull because when we gon on that page we get this. 
+Lucky us we get this one in the easier way :dancer:
 
 ![](images/day3/dbfound_LI.jpg "db")
 
