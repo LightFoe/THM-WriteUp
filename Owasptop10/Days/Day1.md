@@ -8,7 +8,7 @@ They explains pretty well how it works
 
 
 
-![](images/evilshell.png "text")
+![](images/day1/evilshell.png "text")
 
 There are some commands thm suggest to try it out and some will come in handy very soon.
 
@@ -46,7 +46,7 @@ Where OurUser is the answer from the precedent task and we have the answer for t
 ###### #5
 Same as the subtask #5 just one line command
 
-<img src="images/ubuntu.png" alt="alt text" width="500" height="300">
+<img src="images/day1/ubuntu.png" alt="alt text" width="500" height="300">
 
 ###### #6
 
