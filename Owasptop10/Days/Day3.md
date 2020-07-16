@@ -27,7 +27,7 @@ Now let's check which user is inside the db with a simple query.
 
 And we got this result
 
-![](images/day3/queryresult.png "result")
+![](images/day3/queryresult_LI.jpg "result")
 
 So instead of using a cracking tool for the hashes let's use the online crackstationtool because they assured this one contains the password, so it's fine otherwise i'd reccomend using a proper tool.
 
