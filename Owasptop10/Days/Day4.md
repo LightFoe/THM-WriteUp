@@ -15,7 +15,7 @@ Just try these two simple payload on the box to grasp the general idea of how it
  </userInfo>
 ```
 
-If you need to display your own name in the first one just change it accordingly (it'll output Light Foe)
+If you need to display your own name in the first one just change it accordingly (That one will output "Light Foe")
 
 
 + second one
