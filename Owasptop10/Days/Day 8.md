@@ -34,4 +34,4 @@ encoded command into the encoded payload in the cookies but first get a shell an
  
  And we got the flag !
  
- ![](images/day8/flag.png "aflag")
+ ![](images/day8/nextday.png "aflag")
