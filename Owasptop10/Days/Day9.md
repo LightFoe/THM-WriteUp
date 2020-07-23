@@ -14,4 +14,4 @@ And we get the shell in the same shell we were working.
 
 Now just using wc on the passwd file to get the answer you're looking for.
 
-> wc -c /etc/passwd
+> $ wc -c /etc/passwd
