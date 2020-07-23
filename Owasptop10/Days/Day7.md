@@ -18,7 +18,7 @@ To get the cookie session I just used
 <script>alert(document.cookie)</script>
 ```
 
-For the task #4 just add a simple paragraph or an h1 with <p> or <h1>.
+For the task #4 just add a simple paragraph or an h1 with \<p\> or \<h1\>.
 
 For the next one as you can find it in the source code too it'll call the function(answer) if the check on document.querySelector('#thm-title').textContent == 'I am a hacker'
 Then we use it.
