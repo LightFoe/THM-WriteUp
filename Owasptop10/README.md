@@ -21,3 +21,13 @@ Task 1 to 3 are just information about the challenge, just do a quick reading an
   * [Day 4 Walkthrough](https://github.com/LightFoe/THM-WriteUp/blob/master/Owasptop10/Days/Day4.md#day-4 "Day 4")
 
   * [Day 5 Walkthrough](https://github.com/LightFoe/THM-WriteUp/blob/master/Owasptop10/Days/Day5.md#day-5 "Day 5")
+  
+  * [Day 6 Walkthrough](https://github.com/LightFoe/THM-WriteUp/blob/master/Owasptop10/Days/Day6.md#day-6 "Day 6")
+
+  * [Day 7 Walkthrough](https://github.com/LightFoe/THM-WriteUp/blob/master/Owasptop10/Days/Day7.md#day-7 "Day 7")
+
+  * [Day 8 Walkthrough](https://github.com/LightFoe/THM-WriteUp/blob/master/Owasptop10/Days/Day8.md#day-8 "Day 8")
+
+  * [Day 9 Walkthrough](https://github.com/LightFoe/THM-WriteUp/blob/master/Owasptop10/Days/Day9.md#day-9 "Day 9")
+   
+  * [Day 10 Walkthrough](https://github.com/LightFoe/THM-WriteUp/blob/master/Owasptop10/Days/Day10.md#day-10 "Day 10")
