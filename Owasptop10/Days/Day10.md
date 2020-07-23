@@ -5,7 +5,7 @@ This rooms ends with a warning, you should always log everything, indeed melius 
 had received or to prevent it.
 They put lots of emphasis on loggin and they're right; as the final test you'll check a log from an attempted attack on a web server
 
-![](/images/day10/logs.png "logs")
+
 ![](images/day10/logs.png "log")
 
 There is indeed in the logs some unauthorized login attempts ( to /login) with different common credential.
