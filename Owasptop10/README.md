@@ -5,7 +5,7 @@ This is my first write-up ever, I'll try to improve on quality and explanation e
 ### Write Up of the new THM room : Owasptop10
 
 ## This is a Room from [TryHackMe](https://tryhackme.com/ "TryHackMe")
-Learn more about TryHackMe on their :point_up_2: website or their [discord](https://discord.gg/NAspqXF)
+Learn more about TryHackMe on their :point_up_2: website 
 
 ## I have other write-ups -> [Write-Ups](https://github.com/LightFoe/THM-WriteUp#rooms "Write-Ups")
 Check out my other write-ups if you need help :point_up_2: here
