@@ -1,5 +1,7 @@
 # THMOwasptop10-WriteUp
 
+This is my first write-up ever, I'll try to improve on quality and explanation every new write-up I'll share ^^
+
 ### Write Up of the new THM room : Owasptop10
 
 ## This is a Room from [TryHackMe](https://tryhackme.com/ "TryHackMe")
